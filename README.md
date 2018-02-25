@@ -1,2 +1,4 @@
 # V.I.I.T-Time-Table
-E Division Time-Table Android Application
+A android application to make reading timetable easy.
+
+Project developed and built by Rutuparn Pawar.
